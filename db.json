@@ -1,5 +1,6 @@
 { 
   "ansible": {
+    "avatar": "https://img.favpng.com/10/7/25/ansible-openshift-g2-technology-group-logo-configuration-management-png-favpng-JQjEVZP0EjpfVeWASWMme8CGp.jpg",
     "1": "Instalation",
     "2": "Requierments",
     "3": "Playbooks"
